@@ -1,2 +1,0 @@
-# gitSkills
-learn git skills.
