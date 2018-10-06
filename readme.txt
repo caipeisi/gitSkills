@@ -6,3 +6,4 @@ Add other line in master branch.
 Add one line in dev branch.
 Add one more line in master branch.
 Add another line in dev branch.
+Add one line after create dev branch for stash test.
