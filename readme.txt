@@ -5,3 +5,4 @@ Add one line in feature1 branch.
 Add other line in master branch.
 Add one line in dev branch.
 Add one more line in master branch.
+Add another line in dev branch.
